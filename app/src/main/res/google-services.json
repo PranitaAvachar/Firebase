@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923855099424",
+    "project_id": "fcmpush-80805",
+    "storage_bucket": "fcmpush-80805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923855099424:android:92e825da49b28cfa0e8e45",
+        "android_client_info": {
+          "package_name": "com.ithena.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923855099424-9kv051ac7pj23e9ovo4d3apsfaov0q66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BtbqwGJK9Wue8G7mWrKzx-WReRu4Cyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923855099424-9kv051ac7pj23e9ovo4d3apsfaov0q66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
